@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace InterfaceTesting
-{
+{ //A basic interface testing program.
     public interface IEmployeeSalary
     {
         decimal CalculateSalary();
